@@ -124,6 +124,7 @@
     .link{
         display: block;
         text-align: center;
+        width: 200px;
     }
     img{
         display: none;
